@@ -24,6 +24,9 @@ namespace A3
                //i=System.Int32.Parse(str);//2
               // i=int.Parse(str);//3
                 //Console.WriteLine("converted : " + i);
+
+
+
                 //b=int.TryParse(str, out i);//p2-1
                 /*if (b)
                 {
@@ -42,9 +45,9 @@ namespace A3
                 //str to timespan
                 TimeSpan ts;
                 ts=TimeSpan.Parse(str);
-                Console.WriteLine(ts);
+                Console.WriteLine("string in timespan : "+ts);
                 TimeSpan add = new TimeSpan(ts.Hours + 2,ts.Minutes,ts.Seconds);
-                Console.WriteLine(add);
+                Console.WriteLine($"{ts} + 2 Hours : "+add);
                 
             }
             catch(FormatException e)
