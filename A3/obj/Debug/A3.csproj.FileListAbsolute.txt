@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A3\A3\bin\Debug\A3.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A3\A3\bin\Debug\A3.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A3\A3\bin\Debug\A3.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A3\A3\obj\Debug\A3.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A3\A3\obj\Debug\A3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A3\A3\obj\Debug\A3.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A3\A3\obj\Debug\A3.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A3\A3\obj\Debug\A3.pdb
